@@ -1,0 +1,31 @@
+.notFoundContent{
+    background: white;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+
+}
+.notFoundBlock{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.notFoundBlock h1{
+    font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+color: #FF768E;
+margin-bottom: 24px;
+}
+
+.notFoundBlock p{
+    font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+color: #707070;
+
+
+}

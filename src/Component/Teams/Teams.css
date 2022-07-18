@@ -1,0 +1,94 @@
+.input{
+    width: 364px;
+    height: 40px;
+    border: 0.5px solid #D1D1D1;
+border-radius: 4px;
+}
+
+.teams-content{
+    margin: 32px 80px;
+}
+.searchButton{
+    display:flex;
+    justify-content: space-between;
+    margin: 32px 0;
+}
+
+.activeLi{
+    background: #E4163A;
+    color: white;
+}
+.pageSlide{
+    text-align: center;
+}
+.pageSlide ul{
+    width: 390px;
+}
+.pageSlide li{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin: 0 4px;
+    border-radius: 4px;
+    
+    
+}
+.cartPage{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 30px;
+    
+    
+}
+
+.cartCount select, option{
+    width: 88px;
+    height: 40px;
+    border-radius:4px ;
+    background: white;
+    border: 1px solid grey;
+
+}
+
+.button{
+    width: 104px;
+    height: 40px;
+    background: #E4163A;
+border-radius: 4px;
+color: white;
+border: none;
+}
+
+.emptyTeams{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #FFFFFF;
+border-radius: 15px;
+width: 556px;
+height: 570px;
+text-align: center;
+}
+
+.emptyTeams img{
+    width: 482px;
+    height: 320px;
+
+}
+
+.labelEmpty{
+    color: #FF768E;
+    font-size: 36px;
+    line-height: 49px;
+    margin-bottom: 24px;
+
+}
+.textEmpty{
+    color: #707070;
+    font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+}

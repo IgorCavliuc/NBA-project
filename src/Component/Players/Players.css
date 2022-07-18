@@ -1,0 +1,64 @@
+.multeselect{
+    width: 364px;
+    height: 40px;
+    background: #FFFFFF;
+border: 0.5px solid #D1D1D1;
+border-radius: 4px;
+    display: ruby;
+
+
+}
+
+.multeselect option{
+    height: 24px;
+    width: auto;
+    text-align: center;
+    margin: 4px 2px;
+    background: #E4163A;
+    border-radius: 4px;
+    color: white;
+    border: none;
+    
+}
+
+.multeselect button{
+    border: none;
+    background: transparent;
+    color: white;
+}
+.emptyPlayers{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #FFFFFF;
+border-radius: 15px;
+width: 556px;
+height: 570px;
+text-align: center;
+}
+
+.emptyPlayers img{
+    width: 320px;
+    height: 320px;
+}
+
+.labelEmpty{
+    color: #FF768E;
+    font-size: 36px;
+    line-height: 49px;
+    margin-bottom: 24px;
+
+}
+.textEmpty{
+    color: #707070;
+    font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+}
+
+.teamsCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

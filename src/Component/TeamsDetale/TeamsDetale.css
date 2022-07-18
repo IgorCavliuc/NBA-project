@@ -1,0 +1,80 @@
+.teamsDetale{
+    margin: 50px;
+    width: 80%;
+    position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%, -50%);
+    
+}
+
+.editeteams{
+    display: flex;
+    justify-content: space-between;
+
+    background: white;
+    height: 70px;
+    padding: 0 32px;
+    align-items: center;
+    border-radius: 10px 10px 0px 0px;
+}
+.editeteams p{
+    color: #FF5761;
+    font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+}
+.editIco img{
+    margin-left: 32px;
+}
+.teamsInfo{
+    display: flex;
+    color: white;
+   
+    height: 525px;
+    background: linear-gradient(276.45deg, #707070 0%, #393939 100.28%);
+    
+    border-radius: 0px 0px 10px 10px;
+}
+
+.teamsPhoto img{
+position: relative;
+bottom: 0;
+height: 210px;
+margin:  157px 146px;
+}
+.nameInfo{
+    font-size: 36px;
+line-height: 49px;
+font-weight: 800;
+margin: 0 0 40px 0;
+}
+.nameInfo span{
+    color: #FF5761;
+}
+.infoLabel{
+    font-size: 24px;
+line-height: 33px;
+font-weight: 800;
+margin: 0;
+}
+.info{
+    font-size: 18px;
+line-height: 25px;
+font-weight: 500;
+margin: 10px 0 0 0;
+}
+.detaleInfo{
+    margin: 65px
+}
+.flexInfo{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.infoBlock{
+    width: auto;
+    height: 58px;
+    margin-bottom: 54px ;
+    margin-right: 100px ;
+}
