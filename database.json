@@ -1,0 +1,83 @@
+{
+  "players": [
+    {
+      "id": 0,
+      "image": "photo.png",
+      "name": "Malik Beasley",
+      "rating": 22,
+      "position": "forward",
+      "team": "Denver Nuggets",
+      "height": 206,
+      "weigth": 95,
+      "age": 25
+    },
+    {
+      "id": 1,
+      "image": "../src/img/photo.png",
+      "name": "John Dan",
+      "rating": 52,
+      "position": "forward",
+      "team": "Denver ",
+      "height": 189,
+      "weigth": 92,
+      "age": 29
+    },
+    {
+      "id": 3,
+      "image": "../src/img/photo.png",
+      "name": "Been Northley",
+      "rating": 1,
+      "position": "forward",
+      "team": "Denver ",
+      "height": 195,
+      "weigth": 86,
+      "age": 22
+    },
+    {
+      "id": 4,
+      "image": "../src/img/photo.png",
+      "name": "Bowl Greeg",
+      "rating": 12,
+      "position": "forward",
+      "team": "Denver Nuggets",
+      "height": 199,
+      "weigth": 91,
+      "age": 32
+    }
+  ],
+
+  "teams": [
+    {
+      "id": 0,
+      "image": "photo.png",
+      "label": "Denver Nuggets",
+      "division": "NorthWestern",
+      "foundation": 1976,
+      "conference": "Western"
+    },
+    {
+      "id": 1,
+      "image": "photo.png",
+      "label": "Denver",
+      "division": "North",
+      "foundation": 1950,
+      "conference": "Western"
+    },
+    {
+      "id": 2,
+      "image": "photo.png",
+      "label": "Nuggets",
+      "division": "Western",
+      "foundation": 1995,
+      "conference": "Western"
+    },
+    {
+      "id": 3,
+      "image": "photo.png",
+      "label": "Denver ",
+      "division": "Western",
+      "foundation": 2000,
+      "conference": "Western"
+    }
+  ]
+}
