@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NBA-project/static/css/main.44529bbc.css",
+    "main.js": "/NBA-project/static/js/main.b97f3e96.js",
+    "static/media/photo1.png": "/NBA-project/static/media/photo1.6a52c7ce91d4bf257751.png",
+    "static/media/Layer 1.png": "/NBA-project/static/media/Layer 1.6a397155a5f8758d8fb9.png",
+    "static/media/photo.png": "/NBA-project/static/media/photo.997cddc2b3c4a7c2988a.png",
+    "static/media/logoTeams.png": "/NBA-project/static/media/logoTeams.7ac9d1dad041f020f203.png",
+    "static/media/PlayersEmpty.png": "/NBA-project/static/media/PlayersEmpty.5a899dbf01c22d264ed5.png",
+    "static/media/illustration.png": "/NBA-project/static/media/illustration.dd7cdbaa7c0c58f7213d.png",
+    "static/media/POR 1.png": "/NBA-project/static/media/POR 1.c8e958adea0bc2a1df9d.png",
+    "static/media/add_a_photo_24px_rounded.svg": "/NBA-project/static/media/add_a_photo_24px_rounded.275e5331476fc26ba89f.svg",
+    "index.html": "/NBA-project/index.html",
+    "main.44529bbc.css.map": "/NBA-project/static/css/main.44529bbc.css.map",
+    "main.b97f3e96.js.map": "/NBA-project/static/js/main.b97f3e96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44529bbc.css",
+    "static/js/main.b97f3e96.js"
+  ]
+}
